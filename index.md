@@ -12,3 +12,8 @@ df = pd.read_csv(file_name)
 ``` cpp
 const int a = 0;
 ```
+
+# task lists
+- [ ] task 1
+- [ ] to do 2
+- [x] completed 3 
